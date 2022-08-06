@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dareth24/Proyecto-Asincronismo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dareth24/Proyecto-Asincronismo/issues"
+  },
+  "homepage": "https://github.com/Dareth24/Proyecto-Asincronismo#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
